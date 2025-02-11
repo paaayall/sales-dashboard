@@ -49,10 +49,10 @@ To replicate and use this Power BI dashboard, follow the instructions below:
 ## Dashboard Screenshots
 Here are some screenshots from the Sales Dashboard:
 
-![Dashboard Overview]("/SS1.png")
+<img src="SS1.png" alt="Dashboard Overview"/>
 Dashboard Overview with Sales Trends
 
-![Forecasting]("/SS2.png")
+<img src="SS2.png" alt="Forecasting"/>
 Forecasting
 
 ## Contributors
