@@ -59,5 +59,3 @@ Forecasting
 - [PAYAL PAWAR](https://github.com/paaayall)
 
 ---
-
-Feel free to customize the file with your project’s actual details, and add any additional instructions or information as needed!
